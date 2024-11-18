@@ -5,7 +5,6 @@
 
 I am a student in training, developing skills in computing and technology. I focus on gaining experience to contribute to innovative projects and address technological challenges.
 
----
 
 ## 🚀 Technologies I Use
 
@@ -29,8 +28,6 @@ I am a student in training, developing skills in computing and technology. I foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </p>
 
----
-
 ## 📫 Contact
 
 <p align="center">
@@ -41,8 +38,6 @@ I am a student in training, developing skills in computing and technology. I foc
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
 
 ## 🌱 Currently
 
