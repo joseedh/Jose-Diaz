@@ -3,7 +3,7 @@
 🎓 **Computer Science Student** from Curicó, Chile.  
 📍 **Location:** Curicó, Chile.  
 
-I am currently developing my skills in computing and software development. I focus on gaining practical experience to contribute to innovative projects and solve real-world challenges.
+I am a student in training, developing skills in computing and technology. I focus on gaining experience to contribute to innovative projects and address technological challenges.
 
 ---
 
